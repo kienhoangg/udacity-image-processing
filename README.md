@@ -14,7 +14,7 @@ To complete this project, you will need to:
 - Set up node environment
 - Create a new endpoint in the server.js file
 - Deploying your system
-  - Please using this endpoint to test system: http://image-processing-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://image.shutterstock.com/image-photo/diverse-amazon-forest-seen-above-600w-2072628056.jpg
+  - Please using this endpoint to test system: http://image-processing-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
 
 ## Testing
 
